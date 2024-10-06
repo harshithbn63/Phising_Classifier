@@ -1,0 +1,2 @@
+A Phishing Website Classifier is a machine learning model that detects whether a website is legitimate or a phishing site. Phishing websites attempt to trick users into sharing sensitive information like passwords or credit card numbers by pretending to be trustworthy. The classifier analyzes various website features, such as URL characteristics, SSL certificates, domain information, and content structure, to predict whether a site is malicious.
+
